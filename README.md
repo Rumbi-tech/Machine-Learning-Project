@@ -1,4 +1,4 @@
-# Machine Learning Project: Stroke Risk Prediction
+This repository is a personal mirror of academic coursework originally hosted under the Clarkson University GitHub organization.# Machine Learning Project: Stroke Risk Prediction
 
 ## Overview
 This project develops and evaluates multiple machine learning models to predict the likelihood of stroke using structured healthcare data. The work emphasizes methodological rigor, reproducibility, and comparative evaluation under severe class imbalance, aligning with best practices in applied data science and biomedical machine learning.
